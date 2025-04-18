@@ -9,10 +9,6 @@
 - 🔧 Backend: Node.js, Express.js  
 - 🧠 Currently Exploring: MongoDB, REST APIs, and modern web frameworks  
 
-## 📈 GitHub Stats
-
-![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankmoradiya&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 
 Feel free to connect with me or check out some of my work here on GitHub!

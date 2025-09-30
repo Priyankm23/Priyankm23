@@ -13,7 +13,6 @@
 ## ⚡ Goals Right Now
 
 - Strengthening backend architecture  
-- Implementing secure authentication (OAuth, JWT)  
 - Adding real-time and scheduled features using workflows and queues  
 - Exploring Python for automations and scripting
 

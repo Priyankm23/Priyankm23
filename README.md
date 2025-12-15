@@ -26,7 +26,7 @@ I'm Priyank Moradiya, a highly motivated 3rd-year B.Tech student with a strong p
 - Utilized **Agile methodology** including **Daily Stand-ups** and maintaining documentation (Product Backlog, Defect Tracker, and Unit Test Plan).
 
 * **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
-* **Certificate of Completion:** [View Certificate (PDF)](https://raw.github.com/Priyankm23/Priyankm23/blob/main/1-235f9ae3-d654-475e-b2cd-abb36e1ac5b4.pdf)
+* **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)
 
 ## 📫 Let's Connect
 

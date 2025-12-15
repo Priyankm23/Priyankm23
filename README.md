@@ -62,14 +62,43 @@ My portfolio includes projects like a personal **Subscription Tracker** and a **
 **Role:** Intern | **Project:** Crypto Portfolio Manager | **Duration:** Aug 6, 2025 – Oct 10, 2025
 
 #### Key Contributions
-- Developed a **Crypto Portfolio Manager** for portfolio tracking and analysis using **Python 3** and **Streamlit**.
-- Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
-- Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
-- Designed an **Advanced Risk Management** module that calculates key metrics (Sharpe/Sortino Ratios, Max Drawdown) and is set up to issue **email alerts**.
-- Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Defect Tracker, Test Cases).
+* Developed a **Crypto Portfolio Manager** using **Python/Streamlit** for tracking and analysis.
+* Implemented **portfolio construction strategies** and **Ridge Regression (ML)** for return prediction.
+* Designed an **Advanced Risk Management** module (Sharpe/Sortino Ratios, Max Drawdown) with **email alert** capability.
+* Utilized **Agile methodology** including Daily Stand-ups and project documentation.
 
 * **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
 * **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Subscription Tracker (Node.js Backend System)
+* **Focus:** Production-oriented backend for managing recurring payments and preventing renewal misses.
+* **Key Features:** **Automated reminder workflows** (Upstash), **Email notification system** (Nodemailer), **API abuse protection** (Arcjet).
+🔗 **Repository:** https://github.com/Priyankm23/subscription-tracker
+
+---
+
+### 📌 Crypto Portfolio Manager (Internship Project)
+* **Focus:** End-to-end crypto analytics and data-driven investment system.
+* **Key Features:** **Rule-based portfolio strategies**, **Predictive modeling** (Ridge Regression), **Advanced risk metrics** with automated alerts.
+🔗 **Repository:** https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager
+
+---
+
+### 🏆 Hackathon Projects (System Design Focus)
+
+#### ♻️ ReWear – Community Clothing Exchange (Odoo Hackathon)
+* **Focus:** Sustainable fashion platform enabling item exchange via **direct swaps** or a **points-based redemption system**.
+* **Key Features:** User dashboards, item management, and **Admin moderation flow**.
+
+#### 🛡️ Smart Tourist Safety System (Smart India Hackathon)
+* **Focus:** Secure backend system for enhancing tourist safety and coordinating with authorities.
+* **Key Features:** **SOS alert handling**, **Geofencing-based alerts**, **Authority Backend** supporting e-FIR workflows.
+
+> ⚠️ **Status:** Both backend systems are **actively under development** to achieve full end-to-end functionality.
 
 ---
 
@@ -80,65 +109,9 @@ My portfolio includes projects like a personal **Subscription Tracker** and a **
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 Subscription Tracker (Backend System)
-A **production-oriented Node.js backend** designed to help users manage recurring subscriptions and never miss renewals, with automation as the core focus.
-
-**Key Highlights**
-- **Automated reminder workflows** using **Upstash Workflows** to trigger renewal emails ahead of due dates
-- **Email notification system** built with **Nodemailer** and Google OAuth
-- Full subscription lifecycle management (create, update, cancel, delete)
-- **API abuse protection** using **Arcjet**, focusing on security and rate limiting
-
-🔗 **Repository:** https://github.com/Priyankm23/subscription-tracker
-
----
-
-### 📌 Crypto Portfolio Manager (Internship Project – Infosys Springboard)
-An **end-to-end crypto analytics and portfolio management system** focused on data-driven investment decisions and risk awareness.
-
-**Key Highlights**
-- **Core backend built in Python** with data handling (Pandas, NumPy) and an **SQLite** database.
-- Implements **rule-based portfolio strategies** (Inverse Volatility, Sharpe Ratio optimization).
-- Features **predictive modeling** (Ridge Regression) and **advanced risk metrics** with automated alerts.
-
-🔗 **Repository:** https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager
-
----
-
-### 🏆 Hackathon Projects (Showcasing System Design)
-
-#### ♻️ ReWear – Community Clothing Exchange (Odoo Hackathon)
-A **community-powered platform** that promotes sustainable fashion by enabling users to exchange wearable garments instead of buying new ones.
-
-**Core Functionality**
-- Item exchange via **direct swaps** or a **points-based redemption system**
-- User dashboard to manage listings, swaps, and points
-- Item listings with images, categories, conditions, and tags
-- **Admin moderation flow** for listing approval and content control
-
----
-
-#### 🛡️ Smart Tourist Safety System (Smart India Hackathon)
-A **secure backend system** designed to enhance tourist safety through real-time alerts and seamless coordination with authorities.
-
-**Core Functionality**
-- **SOS alert handling** with real-time updates from tourists
-- **Geofencing-based alerts** for restricted or high-risk zones
-- **Blockchain-backed digital tourist ID** (concept-level implementation)
-
-**System Architecture**
-- **Tourist App Backend:** Handles tourist registration, authentication, SOS triggers, and location updates.
-- **Authority Backend & Dashboard:** Receives real-time alerts from the tourist system, visualizes tourist clusters on maps, manages geofencing alerts, and supports **e-FIR workflows**.
-
-> ⚠️ Both backend systems are **actively under development**. Although the project did not advance in the hackathon, we decided to continue building and refining **full end-to-end functionality** for both the tourist-facing application and the authority dashboard.
-
----
-
 ## 📫 Let's Connect
 
-Feel free to connect with me or explore some of my work here on GitHub. 
+Feel free to connect with me or explore some of my work here on GitHub. 
 I'm always open to learning, collaborating, and building impactful projects!
 
 ---

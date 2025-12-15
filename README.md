@@ -62,10 +62,10 @@ My portfolio includes projects like a personal **Subscription Tracker** and a **
 **Role:** Intern | **Project:** Crypto Portfolio Manager | **Duration:** Aug 6, 2025 – Oct 10, 2025
 
 #### Key Contributions
-* Developed a **Crypto Portfolio Manager** using **Python/Streamlit** for tracking and analysis.
-* Implemented **portfolio construction strategies** and **Ridge Regression (ML)** for return prediction.
-* Designed an **Advanced Risk Management** module (Sharpe/Sortino Ratios, Max Drawdown) with **email alert** capability.
-* Utilized **Agile methodology** including Daily Stand-ups and project documentation.
+- Developed a **Crypto Portfolio Manager** using **Python/Streamlit** for tracking and analysis.
+- Implemented **portfolio construction strategies** and **Ridge Regression (ML)** for return prediction.
+- Designed an **Advanced Risk Management** module (Sharpe/Sortino Ratios, Max Drawdown) with **email alert** capability.
+- Utilized **Agile methodology** including Daily Stand-ups and project documentation.
 
 * **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
 * **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)

@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Priyank Moradiya
+
 # 💫 About Me
 
 I’m **Priyank Moradiya**, a highly focused 3rd-year B.Tech student committed to **backend development** and building reliable, real-world systems.
@@ -54,40 +56,25 @@ My portfolio includes projects like a personal **Subscription Tracker** and a **
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 Subscription Tracker
-Backend service for managing recurring subscriptions, reminders, and usage insights.  
-**Tech:** Node.js, Express.js, MongoDB, JWT  
-🔗 Repository: *(add link)*
-
-### 📌 Crypto Portfolio Manager
-Portfolio analysis and risk management system with return prediction.  
-**Tech:** Python, Streamlit, Scikit-learn  
-🔗 Repository: https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager
-
----
-
 ## 💼 Experience
 
 ### Virtual Internship — Infosys Springboard
-**Role:** Intern  
-**Project:** Crypto Portfolio Manager  
-**Duration:** August 6, 2025 – October 10, 2025
+**Role:** Intern | **Project:** Crypto Portfolio Manager | **Duration:** Aug 6, 2025 – Oct 10, 2025
 
 #### Key Contributions
-- Developed a **Crypto Portfolio Manager** for portfolio tracking and analysis using **Python 3** and **Streamlit**.
-- Implemented **portfolio construction strategies** (Inverse Volatility, Sharpe Ratio optimization) to improve diversification and risk control.
-- Integrated a **Ridge Regression** model using **Scikit-learn** to experiment with future return prediction.
-- Designed a **risk management module** calculating Sharpe/Sortino ratios and maximum drawdown, with email alert capability.
-- Followed **Agile practices**, including daily stand-ups and maintaining project documentation (Product Backlog, Defect Tracker, Unit Test Plan).
+* Developed a **Crypto Portfolio Manager** for portfolio tracking and analysis using **Python 3** and **Streamlit**.
+* Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
+* Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
+* Designed an **Advanced Risk Management** module that calculates key metrics (Sharpe/Sortino Ratios, Max Drawdown) and is set up to issue **email alerts**.
+* Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Defect Tracker, Test Cases).
 
-- **Certificate:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)
+* **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
+* **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Priyankm23&theme=dark&hide_border=false&hide=issues,prs)
+![](https://github-readme-stats.vercel.app/api?username=Priyankm23&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyankm23&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankm23&theme=dark&hide_border=false&layout=compact)
 
@@ -112,16 +99,15 @@ A **production-oriented Node.js backend** designed to help users manage recurrin
 An **end-to-end crypto analytics and portfolio management system** focused on data-driven investment decisions and risk awareness.
 
 **Key Highlights**
-- **Rule-based portfolio strategies** including Inverse Volatility and Sharpe Ratio optimization
-- **Predictive modeling** using **Ridge Regression** to forecast asset and portfolio returns
-- **Advanced risk metrics** (Sharpe, Sortino, Max Drawdown) with automated alert setup
-- **Backtesting & performance analysis** across different market conditions
+- **Core backend built in Python** with data handling (Pandas, NumPy) and an **SQLite** database.
+- Implements **rule-based portfolio strategies** (Inverse Volatility, Sharpe Ratio optimization).
+- Features **predictive modeling** (Ridge Regression) and **advanced risk metrics** with automated alerts.
 
 🔗 **Repository:** https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager
 
 ---
 
-### 🏆 Hackathon Projects
+### 🏆 Hackathon Projects (Showcasing System Design)
 
 #### ♻️ ReWear – Community Clothing Exchange (Odoo Hackathon)
 A **community-powered platform** that promotes sustainable fashion by enabling users to exchange wearable garments instead of buying new ones.
@@ -152,6 +138,7 @@ A **secure backend system** designed to enhance tourist safety through real-time
 
 ## 📫 Let's Connect
 
-Feel free to connect with me or explore some of my work here on GitHub. I'm always open to learning, collaborating, and building impactful projects!
+Feel free to connect with me or explore some of my work here on GitHub. 
+I'm always open to learning, collaborating, and building impactful projects!
 
-<!-- Proudly refined with GPRM -->
+---

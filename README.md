@@ -19,17 +19,18 @@ I'm Priyank Moradiya, a highly motivated 3rd-year B.Tech student with a strong p
 * **Duration:** August 6, 2025 to October 10, 2025
 
 #### Key Accomplishments:
-* Developed a **Crypto Portfolio Manager** using **Python 3** and **Streamlit** for portfolio tracking and analysis.
-* Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
-* Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
-* Designed an **Advanced Risk Management** module that calculates key metrics (Sharpe/Sortino Ratios, Max Drawdown) and is set up to issue **email alerts**.
-* Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Product Backlog, Defect Tracker, Test Cases).
+- Developed a **Crypto Portfolio Manager** using **Python 3** and **Streamlit** for portfolio tracking and analysis.
+- Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
+- Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
+- Designed an **Advanced Risk Management** module calculating key metrics (Sharpe/Sortino Ratios, Max Drawdown) with **email alert capability**.
+- Utilized **Agile methodology** including **Daily Stand-ups** and maintaining documentation (Product Backlog, Defect Tracker, and Unit Test Plan).
 
 * **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
-* **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)
+* **Certificate of Completion:** [View Certificate (PDF)](https://raw.github.com/Priyankm23/Priyankm23/blob/main/1-235f9ae3-d654-475e-b2cd-abb36e1ac5b4.pdf)
 
 ## 📫 Let's Connect
 
 Feel free to connect with me or explore some of my work here on GitHub.
 I'm always open to learning, collaborating, and building impactful projects!
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

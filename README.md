@@ -12,4 +12,24 @@ I'm Priyank Moradiya, a highly motivated 3rd-year B.Tech student with a strong p
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyankm23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankm23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 💼 Experience
+
+### Virtual Internship - Infosys Springboard
+* **Role:** Intern (Project: Crypto Portfolio Manager)
+* **Duration:** August 6, 2025 to October 10, 2025
+
+#### Key Accomplishments:
+* Developed a **Crypto Portfolio Manager** using **Python 3** and **Streamlit** for portfolio tracking and analysis.
+* Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
+* Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
+* Designed an **Advanced Risk Management** module that calculates key metrics (Sharpe/Sortino Ratios, Max Drawdown) and is set up to issue **email alerts**.
+* Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Defect Tracker, Test Cases).
+
+* **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
+* **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)
+
+## 📫 Let's Connect
+
+Feel free to connect with me or explore some of my work here on GitHub.
+I'm always open to learning, collaborating, and building impactful projects!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

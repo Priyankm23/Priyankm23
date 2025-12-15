@@ -4,7 +4,7 @@
 
 I'm a 3rd-year B.Tech undergrad committed to **backend development** and building reliable, real-world systems.
 
-I primarily work with **Node.js** and **Express.js**, designing RESTful APIs and databases like **MongoDB** and **MySQL**. I am proficient in **Python**, **JavaScript**, and **C++**, and I specialize in optimizing backend logic, data flow, and system architecture. I'm currently expanding into **Python (FastAPI)** and deepening my database skills with **SQLite** and **PostgreSQL** for clean API design and scalable data handling.
+I primarily work with **Node.js** and **Express.js**, designing RESTful APIs with databases like **MongoDB** and **MySQL** but also expanding into **Python (FastAPI)** and deepening my database skills with **SQLite** and **PostgreSQL**. I am proficient in **Python**, **JavaScript**, and **C++**, and I specialize in optimizing backend logic, data flow, and system architecture. 
 
 Currently, I’m focused on learning **Docker**, **PostgreSQL**, and **cloud deployment** to master scalability, containerization, and production environments. I also have a foundational understanding of **Generative AI** and explore its practical use in automating and enhancing backend systems.
 

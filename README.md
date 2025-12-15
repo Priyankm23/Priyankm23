@@ -23,7 +23,7 @@ I'm Priyank Moradiya, a highly motivated 3rd-year B.Tech student with a strong p
 * Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
 * Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
 * Designed an **Advanced Risk Management** module that calculates key metrics (Sharpe/Sortino Ratios, Max Drawdown) and is set up to issue **email alerts**.
-* Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Defect Tracker, Test Cases).
+* Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Product Backlog, Defect Tracker, Test Cases).
 
 * **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
 * **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)

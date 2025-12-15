@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-I’m **Priyank Moradiya**, a highly focused 3rd-year B.Tech student committed to **backend development** and building reliable, real-world systems.
+I'm a 3rd-year B.Tech undergrad committed to **backend development** and building reliable, real-world systems.
 
 I primarily work with **Node.js** and **Express.js**, designing RESTful APIs and databases like **MongoDB** and **MySQL**. I am proficient in **Python**, **JavaScript**, and **C++**, and I specialize in optimizing backend logic, data flow, and system architecture. I'm currently expanding into **Python (FastAPI)** and deepening my database skills with **SQLite** and **PostgreSQL** for clean API design and scalable data handling.
 
@@ -62,11 +62,11 @@ My portfolio includes projects like a personal **Subscription Tracker** and a **
 **Role:** Intern | **Project:** Crypto Portfolio Manager | **Duration:** Aug 6, 2025 – Oct 10, 2025
 
 #### Key Contributions
-* Developed a **Crypto Portfolio Manager** for portfolio tracking and analysis using **Python 3** and **Streamlit**.
-* Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
-* Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
-* Designed an **Advanced Risk Management** module that calculates key metrics (Sharpe/Sortino Ratios, Max Drawdown) and is set up to issue **email alerts**.
-* Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Defect Tracker, Test Cases).
+- Developed a **Crypto Portfolio Manager** for portfolio tracking and analysis using **Python 3** and **Streamlit**.
+- Implemented **Strategic Portfolio Construction** (e.g., Inverse Volatility, Sharpe Ratio optimization) to build diversified portfolios.
+- Integrated a machine learning model (**Ridge Regression**) using **Scikit-learn** to predict future asset returns.
+- Designed an **Advanced Risk Management** module that calculates key metrics (Sharpe/Sortino Ratios, Max Drawdown) and is set up to issue **email alerts**.
+- Utilized **Agile methodology** for development, including **Daily Stand-ups** and maintaining documentation (Defect Tracker, Test Cases).
 
 * **Project Repository:** [https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager](https://github.com/Priyankm23/Infosys-Springboard-crypto-portfolio-manager)
 * **Certificate of Completion:** [View Certificate (PDF)](https://bit.ly/Priyank-InfosysCert)

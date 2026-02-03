@@ -108,5 +108,3 @@ Feel free to connect with me or explore some of my work here on GitHub. 
 I'm always open to learning, collaborating, and building impactful projects!
 
 ---
-
-![YOLO](./yolo.png)

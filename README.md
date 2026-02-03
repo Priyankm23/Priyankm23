@@ -109,4 +109,4 @@ I'm always open to learning, collaborating, and building impactful projects!
 
 ---
 
-![YOLO](https://img.shields.io/badge/YOLO-Ship%20It-red?style=for-the-badge)
+![YOLO](./yolo.png)

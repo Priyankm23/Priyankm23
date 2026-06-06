@@ -14,7 +14,7 @@ Still figuring it out. But that's the direction.
 
 ---
 
-My Portfolio - ![Portfolio]https://priyank-moradiya.vercel.app/
+My Portfolio - [Visit Here](https://priyank-moradiya.vercel.app/)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyank_.15)

@@ -26,15 +26,7 @@ My Portfolio - [Visit Here](https://priyank-moradiya.vercel.app/)
 
 ## 💻 Tech Stack
 
-**Languages** &nbsp; ![JavaScript](https://img.shields.io/badge/-%20-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-%20-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-%20-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Backend & APIs** &nbsp; ![Node.js](https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-%20-404d59?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-%20-009688?style=flat-square&logo=fastapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/-%20-010101?style=flat-square&logo=socket.io&logoColor=white) ![gRPC](https://img.shields.io/badge/-%20-244c5a?style=flat-square&logo=grpc&logoColor=white)
-
-**Databases & Caching** &nbsp; ![PostgreSQL](https://img.shields.io/badge/-%20-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-%20-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-%20-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/-%20-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Infrastructure & Messaging** &nbsp; ![Docker](https://img.shields.io/badge/-%20-2496ED?style=flat-square&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-%20-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Render](https://img.shields.io/badge/-%20-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/-%20-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Tools** &nbsp; ![Git](https://img.shields.io/badge/-%20-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-%20-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-%20-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,fastapi,postgres,mongodb,redis,prisma,docker,rabbitmq,vercel,git,postman)](https://skillicons.dev) ![Socket.io](https://img.shields.io/badge/-%20-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logoColor=white) ![Render](https://img.shields.io/badge/-%20-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 

@@ -34,8 +34,6 @@ My Portfolio - [Visit Here](https://priyank-moradiya.vercel.app/)
 
 **Cadence** — an AI-based meeting intelligence platform. Records and transcribes meetings in real time, then extracts summaries and action items automatically. Built with FastAPI, Socket.IO, Groq (Whisper + Llama), Redis, and PostgreSQL.
 
-**Avsar.io** — a job portal that's simple in scope but deliberately over-engineered in architecture. Built with microservices, gRPC, and RabbitMQ — not because a job portal needs it, but because putting a simple domain under distributed systems pressure is one of the better ways to understand what that complexity actually costs you in practice.
-
 ---
 
 ## 📫 Let's Connect

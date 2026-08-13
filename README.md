@@ -28,7 +28,7 @@ My Portfolio - [Visit Here](https://priyank-moradiya.vercel.app/)
 
 ---
 
-## 🚧 Currently Building
+## 🧑‍💻 Currently Building
 
 **Cadence** — an AI-based meeting intelligence platform. Records and transcribes meetings in real time, then extracts summaries and action items automatically. Built with FastAPI, Socket.IO, Groq (Whisper + Llama), Redis, and PostgreSQL.
 

@@ -2,11 +2,9 @@
 
 # 💫 About Me
 
-A backend developer in progress, currently in my 3rd year of B.Tech IT.
+Backend Developer, 4th-year IT student, working on scale and getting architecture decisions and design right.
 
 Most of what you'll find here is backend work in Node.js and Python — REST APIs, data pipelines, real-time systems, and whatever I was trying to figure out at the time. No repo here is a finished product. They're snapshots of where my understanding was when I built them, and some of them are under refinement as I learn new concepts or come across tools or services to improve the features.
-
-**About the frontends you see for the projects** — Some might look like AI slop, some might be over the top. As time has moved on, I have adapted a more structured process with the assist of AI tools and services — and the urge to create polished versions of the UIs keeps pushing me to work on them in my free time.
 
 **Current Phase** : trying to become good enough at backend systems that the tools don't matter more than the thinking. In a time when AI can generate code faster than I can type it, I'm less interested in knowing syntax and more interested in understanding why a system is designed the way it is — because that part is harder to automate.
 
